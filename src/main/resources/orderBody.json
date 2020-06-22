@@ -1,0 +1,26 @@
+{
+  "deadline": "2019-05-17T06:42:40.396Z",
+  "intendedVehicle": "Smt-02",
+  "destinations": [
+    {
+      "locationName": "LOC-AP313",
+      "operation": "Wait",
+      "properties": [
+        {
+          "key": "duration",
+          "value": "1000"
+        }
+      ]
+    }, {
+      "locationName": "LOC-AP303",
+      "operation": "WaitKey",
+      "properties": [
+        {
+          "key": "3",
+          "value": "true"
+        }
+      ]
+    }
+
+  ]
+}
